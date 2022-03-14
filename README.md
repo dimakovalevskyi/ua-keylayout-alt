@@ -7,7 +7,7 @@ This layout is based on Ukrainian Traditional keyboard layout.
 
 Changes:
 
- - symbol `і` & `и` are swapped
+ - symbols `і` & `и` are swapped
 
  ![Layout example](layout.png)
 
